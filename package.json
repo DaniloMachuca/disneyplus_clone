@@ -1,0 +1,27 @@
+{
+  "name": "disneyplus_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniloMachuca/disneyplus_clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DaniloMachuca/disneyplus_clone/issues"
+  },
+  "homepage": "https://github.com/DaniloMachuca/disneyplus_clone#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.85.1"
+  }
+}
