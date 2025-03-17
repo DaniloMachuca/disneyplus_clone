@@ -1,10 +1,13 @@
-@use "variaveis";
-
 .plans {
   padding: 5.6vw;
 
   h2 {
     text-align: center;
+  }
+
+  .button {
+    margin-top: 2vw;
+    margin-bottom: 8px;
   }
 
   &__list {
