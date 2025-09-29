@@ -1,11 +1,4 @@
 
----
-
-## 2️⃣ Disney+ Clone
-
-**README.md**  
-
-```markdown
 # Disney+ Clone
 
 ## Descrição
